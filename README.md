@@ -1,2 +1,3 @@
 # language-assistant
-language-assistant.org
+
+This repository contains all the code files (CGI, JS, CSS) used on the language-assistant.org website.
